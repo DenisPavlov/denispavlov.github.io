@@ -1,1 +1,2 @@
-I'm Kotlin backend developer from Novosibirsk Russia.
+I am Denis Pavlov and I work as a Kotlin server-side developer for the <a href="https://rocketscien.se/">Rocket Science</a> in Novosibirsk, Russia.
+I’m enthusiastic about Kotlin, clean code, software craftsmanship and testing.
